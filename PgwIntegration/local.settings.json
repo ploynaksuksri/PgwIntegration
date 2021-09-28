@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "Pgw:BaseUrl": "https://sandbox-pgw.2c2p.com",
+    "Pgw:PaymentTokenUrl": "/payment/4.1/PaymentToken",
+    "Pgw:PaymentInquiryUrl": "/payment/4.1/PaymentInquiry",
+    //"Pgw:MerchantId": "JT01",
+    //"Pgw:SecretKey": "ECC4E54DBA738857B84A7EBC6B5DC7187B8DA68750E88AB53AAA41F548D6F2D9",
+    "Pgw:MerchantId": "764764000009347",
+    "Pgw:SecretKey": "0D6A706933AE782A686365CFA7C19160F65E887D55DC9F41729BB13D8B32C10A",
+    "Pgw:Database": "Server=tcp:blacksmith-dev.database.windows.net;Database=blacksmith-dev;User Id=blacksmith-dev;Password=eSkyAPJBRy5XzMD9Ai;"
+  }
+}
